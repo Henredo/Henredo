@@ -7,8 +7,8 @@
 <p>🖥One became a Freshman in Computer Science in UFT.</p>
 <p>🐍As well as started to dive in the art of programming</p>
 <p>🧭I have yet to adventured through most programming languages. But...</p>
-<p>🌐One feels the urge to create web pages that are not boring, <b style="color: #aaa;">further learning of html/css required.</b></p><br>
+<p>🌐One feels the urge to create web pages that are not boring! ....further learning of html/css required.</p><br>
 <h2>I code with</h2>
-<b style="font-size: 30px;">⛽Anger</b>
-<p style="font-size: 20px;">    in my</p>
-<b style="font-size: 30px;">❤️‍🔥Heart</b>
+<h3>⛽Anger</h3>
+<h4>   in my<h4>
+<h3>❤️‍🔥Heart<h3>
