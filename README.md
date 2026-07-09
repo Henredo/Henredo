@@ -4,7 +4,7 @@
 <p><b>My name is Henry</b> and I'm an aspiring IT professional💾 and future computer wizard🧙</p>
 <h2>In one's journey...</h2>
 
-<p>🖥One became a Freshman in Computer Science at UFT.</p>
+<p>🖥One is still a Computer Science student at UFT.</p>
 <p>🐍As well as started to dive in the art of programming</p>
 <p>🧭I have yet to adventured through most programming languages. But...</p>
 <p>🌐One feels the urge to create web pages that are not boring! ....further learning of html/css required.</p>
